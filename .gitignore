@@ -18,6 +18,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+
+# VS Local History plugin
+.localhistory/
+
 # Roslyn cache directories
 *.ide/
 
